@@ -1,0 +1,9 @@
+name: Packets
+version: 1.0
+main: com.Kento.PCM.Main
+description: PMC's
+depend: [ProtocolLib]
+commands:
+  packets:
+    description: Main Commands!
+    usage: /<command>
